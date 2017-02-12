@@ -1,2 +1,2 @@
-# Few_Good_Js_Challenges
+# Few Good Js Challenges
 A few good JavaScript problems for pratice
