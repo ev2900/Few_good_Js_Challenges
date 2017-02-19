@@ -3,7 +3,7 @@ A few good JavaScript problems for pratice. See the associated folders in this r
 
 #Problems
 
-#1
+##1
 Write a JavaScript function which accepts an array of numbers and returns the sum of the array.
 
 #2
